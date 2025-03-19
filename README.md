@@ -1,11 +1,5 @@
 # 📊 Bank Loan Analysis Project #
 
-## Tools
-- **🔧 Power BI**: For interactive dashboards and visualizations.
-- **🗃️ SQL**: For data extraction and manipulation.
-
----
-
 ## Project Objective
 The goal of this project is to **analyze bank loan data** to gain valuable insights into lending activities, identify key performance indicators (KPIs), and track loan performance. This analysis aids in making **data-driven decisions** and understanding the **financial health** of the bank's lending portfolio. 📈💡
 
@@ -55,13 +49,41 @@ This project involves the following steps:
 ---
 
 ## Dataset
-Download the dataset used in this project [here] 📥
+Download the dataset used in this project [here](https://github.com/Priyanka-Patil1/-Bank-Loan-Analysis-Project/blob/main/financial_loan.csv) 📥
 
 ## Query Document
-Find the SQL queries used in this project [here] 📄
+Find the SQL queries used in this project [here](https://github.com/Priyanka-Patil1/-Bank-Loan-Analysis-Project/blob/main/SQL%20queries.docx) 📄
 
 ## 📊 Power BI Report Sample
 Explore a sample of the Power BI report created for this project:
-- **Dashboard 1: Summary** ![Dashboard 1]
-- **Dashboard 2: Overview** ![Dashboard 2]
-- **Dashboard 3: Details** ![Dashboard 3]
+- **Dashboard 1: Summary** ![Dashboard 1](https://github.com/Priyanka-Patil1/-Bank-Loan-Analysis-Project/blob/main/Image%201.png)
+- **Dashboard 2: Overview** ![Dashboard 2](https://github.com/Priyanka-Patil1/-Bank-Loan-Analysis-Project/blob/main/Image%202.png)
+- **Dashboard 3: Details** ![Dashboard 3](https://github.com/Priyanka-Patil1/-Bank-Loan-Analysis-Project/blob/main/Image%203.png)
+
+## 📊 Insights
+
+• Total Loan Applications: 38.6K
+
+• Total Funded Amount: $435.8M
+
+• Total Amount Received: $473.1
+
+• Average Interest Rate: 12%
+
+• Average Debt-to-Income Ratio (DTI): 13.3%
+
+• MoM increase in loan applications is 6.9%.
+
+• MoM increase in loan amount is 13%.
+
+## 🎯 Scope
+
+• Average DTI is 13.3%, which is way below the good DTI score i.e. 35%, which means there is more loan potential in the market.
+
+• Bad loans account for 13.8% of total loans. The target can be to bring it down to below 10%.
+
+• Total lost amount due to bad loans is 32.2M.
+
+• 53.3% (232.46M) of the total loan amount is taken for debt consolidation. 
+ 
+• States with a bad loan percentage higher than average i.e. 13.8% should try to reduce it to the average.
