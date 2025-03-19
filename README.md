@@ -72,9 +72,9 @@ Explore a sample of the Power BI report created for this project:
 
 • Average Debt-to-Income Ratio (DTI): 13.3%
 
-• MoM increase in loan applications is 6.9%.
+• MoM increase in loan applications is 6.9%
 
-• MoM increase in loan amount is 13%.
+• MoM increase in loan amount is 13%
 
 ## 🎯 Scope
 
